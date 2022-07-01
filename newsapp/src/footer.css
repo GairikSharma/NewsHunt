@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: coral;
+}
+h4{
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+#textarea{
+    background-color: transparent;
+}
